@@ -1,6 +1,7 @@
 # B次元 (原BB发车)
-最新地址(2020.12.15更新/本地址将定期更换)  
+最新地址(2021.01.21更新/本地址将定期更换)  
 https://bliporn.com/downzai/  
+https://anime.bliporn.com/
 
 # 加入收藏夹防丢失
 https://github.com/BHACG/1
