@@ -2,7 +2,7 @@
 最新地址(2021.01.21更新/本地址将定期更换)  
 https://bliporn.com/downzai/  
 https://anime.bliporn.com/  
-http://91bblili.com/
+http://91bblili.com/  (手机移动版)
 
 # 加入收藏夹防丢失
 https://github.com/BHACG/1
